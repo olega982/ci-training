@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.200" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-11-22T11:19:02" tests="0" file="cypress\e2e\headlessTest.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Headless suilte" timestamp="2022-11-22T11:19:02" tests="1" time="5.189" failures="0">
+    <testcase name="Headless suilte First test, bitch" time="3.882" classname="First test, bitch">
+    </testcase>
+  </testsuite>
+</testsuites>
